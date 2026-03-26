@@ -39,6 +39,11 @@ npm test
 npm run build
 ```
 
+## GitHub Pages
+
+`main` へ push すると、GitHub Actions でビルドして GitHub Pages へ公開できます。  
+公開URLは `https://foobar1696.github.io/ow-darts-journey/` を想定しています。
+
 ## テストカバレッジ確認
 
 ```bash
