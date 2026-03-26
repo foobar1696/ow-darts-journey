@@ -1,0 +1,72 @@
+escort:
+  maps:
+    - mapId: circuit-royal
+      mapName: Circuit Royal
+    - mapId: dorado
+      mapName: Dorado
+    - mapId: havana
+      mapName: Havana
+    - mapId: junkertown
+      mapName: Junkertown
+    - mapId: rialto
+      mapName: Rialto
+    - mapId: route-66
+      mapName: Route 66
+    - mapId: shambali-monastery
+      mapName: Shambali Monastery
+    - mapId: watchpoint-gibraltar
+      mapName: "Watchpoint: Gibraltar"
+
+flashpoint:
+  maps:
+    - mapId: aatlis
+      mapName: Aatlis
+    - mapId: new-junk-city
+      mapName: New Junk City
+    - mapId: suravasa
+      mapName: Suravasa
+
+hybrid:
+  maps:
+    - mapId: kings-row
+      mapName: King's Row
+    - mapId: eichenwalde
+      mapName: Eichenwalde
+    - mapId: blizzard-world
+      mapName: Blizzard World
+    - mapId: hollywood
+      mapName: Hollywood
+    - mapId: midtown
+      mapName: Midtown
+    - mapId: numbani
+      mapName: Numbani
+    - mapId: paraiso
+      mapName: Paraíso
+
+control:
+  maps:
+    - mapId: antarcticpeninsula
+      mapName: Antarctic Peninsula
+    - mapId: busan
+      mapName: Busan
+    - mapId: ilios
+      mapName: Ilios
+    - mapId: lijiang-tower
+      mapName: Lijiang Tower
+    - mapId: nepal
+      mapName: Nepal
+    - mapId: oasis
+      mapName: Oasis
+    - mapId: samoa
+      mapName: Samoa
+
+push:
+  maps:
+    - mapId: colosseo
+      mapName: Colosseo
+    - mapId: esperanca
+      mapName: Esperança
+    - mapId: new-queen-street
+      mapName: New Queen Street
+    - mapId: runasapi
+      mapName: Runasapi
