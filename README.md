@@ -64,6 +64,7 @@ npm run test:coverage
 * 要件定義: `docs/requirements.md`
 * 基本設計: `docs/basic_design.md`
 * 詳細設計: `docs/detail_design.md`
+* ユーザーマニュアル: `docs/user_manual.md`
 * アーキテクチャ方針: `docs/architecture.md`
 * ユニットテスト方針: `docs/unit_test_policy.md`
 
